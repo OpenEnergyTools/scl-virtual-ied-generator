@@ -14100,7 +14100,7 @@ __decorate([
     i$3('#tree')
 ], SclVirtualIedGenerator.prototype, "treeUI", void 0);
 __decorate([
-    i$3('#iedname')
+    i$3('#iedName')
 ], SclVirtualIedGenerator.prototype, "iedNameInput", void 0);
 __decorate([
     i$3('#desc')
